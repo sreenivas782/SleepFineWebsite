@@ -139,8 +139,8 @@ This project is [MIT](license-link) licensed.
 
 ## 👥 Contact
 
-- Developer: Alfarid Islam
-- GitHub: [@AlfaridIslam](https://github.com/AlfaridIslam)
+- Developer: Sreenivas Athi
+- Email : sreenivasathi333@gmail.com
 
 ---
 ⭐️ Star this repo if you find it helpful!
